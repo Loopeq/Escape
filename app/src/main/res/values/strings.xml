@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">Escape</string>
+    <string name="app_name" translatable="false">Escape</string>
+    <string name="kudos" translatable="false">kudos to ChatGPT</string>
+    <string name="select_language" translatable="false">Язык</string>
+    <string name="assistant" translatable="false">Ассистент: </string>
+    <string name="dotes" translatable="false">...</string>
+
+    <string name="pilotLevelConsole1" translatable="false">
+        Пользователь?
+    </string>
+    <string name="pilotLevelConsole2" translatable="false">
+        Давненько тут никого не было.. Что ж, если хочешь войти, то введи пароль в поле ниже.
+        \n\n
+    </string>
+    <string name="pilotLevelConsole3" translatable="false">
+        -Введите пароль:
+    </string>
+    <string name="password" translatable="false">Пароль</string>
+    <string name="login" translatable="false">Войти</string>
+
+
 </resources>
